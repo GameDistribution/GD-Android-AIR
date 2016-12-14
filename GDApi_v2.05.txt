@@ -1,0 +1,1 @@
+PLease download GDApi_v2.05.swf from https://github.com/GameDistribution/GD-AS3
